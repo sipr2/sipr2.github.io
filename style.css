@@ -1,0 +1,68 @@
+body {
+  
+    color: blue;
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+p{
+
+
+background-color: rgb(42, 165, 61);
+padding: 50px;
+margin-left: 10%;
+margin-right: 10%;
+border-radius: 70%;
+
+
+
+
+}
+
+h1 {
+ font-family: fantasy;
+
+
+
+
+}
+
+
+h3 {
+
+
+background-color: chartreuse;
+font-style: inherit;
+text-decoration: underline;
+width: fit-content;
+border-radius: 30px;
+padding: 1%;
+
+
+}
+
+
+button{
+
+background-color: chartreuse;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
