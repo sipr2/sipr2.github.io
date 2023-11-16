@@ -1,23 +1,32 @@
 body   {
 padding-right: 150px;
-    color: crimson;
-    font-family: monospace;
+    color: rgb(20, 220, 23);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 }
   h4 {
-padding-left: 90px;
+padding-left: 150px;
 
   }
   p {
     padding-left: 90px;
   }
   img {
-
+   border-radius: 20px;
+     border: 5px;
+     border-style: solid;
     height: 150px;
   }
 
-     
+  body {
+    background-image: url("https://res.cloudinary.com/practicaldev/image/fetch/s--BuPz-p40--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nphrgz8yfnjylrwfr0yl.png");
+    background-color: #cccccc;
+   }
 
 
+h1 
+{
+padding-left: 150px;
 
+}
   
