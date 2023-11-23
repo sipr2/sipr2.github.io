@@ -1,0 +1,32 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    background-color: black;
+    padding: 10px;
+    column-gap: 0px;
+    
+  }
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 0px;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  
+  
+body
+
+{
+background-image: url(https://www.pullrequest.com/blog/how-to-implement-dark-mode-with-css-js/images/how-to-implement-dark-mode-with-css-and-js.jpg);
+
+
+}
+  
+.csbutton
+{
+  
+
+
+}
