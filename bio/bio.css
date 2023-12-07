@@ -1,0 +1,39 @@
+body {
+
+background-color: crimson;
+
+
+
+}
+.nav-bar
+{
+
+display: flex;
+gap: 2vw;
+justify-content: center;
+background-color: green;
+padding-top: 0vw;
+padding-bottom: 0vw;
+border-style: solid;
+
+}
+
+
+
+
+a:link {
+    text-decoration: none;
+    color: red;
+}
+
+a:visited {
+    text-decoration: none;
+    color: red;
+    
+}
+ 
+.img
+{
+border-radius: 50%;
+
+}

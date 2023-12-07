@@ -1,0 +1,66 @@
+body
+{
+
+background-image: url(https://media1.s-nbcnews.com/i/newscms/2021_39/3509143/210929-gaming-front-seo-2x1_0934621b7c9c8feee026252e499c4cb6.jpg);
+background-size: cover;
+}
+
+
+
+.text
+{
+
+    text-align: center;
+    color: dodgerblue;
+    text-shadow: 2px 2px 2px black;
+   text-decoration: underline wavy;
+     
+}
+
+.text-2
+
+{
+
+color: dodgerblue;
+text-shadow: 10px 10px 10px purple;
+-webkit-text-stroke-width: 0.1vw;
+-webkit-text-stroke-color: black;
+
+}
+
+h2
+{
+color: dodgerblue;
+
+}
+
+img
+{
+border-radius: 60%;
+
+
+}
+
+.faceit
+{
+
+    width: 70px;
+    height: 70px;
+
+}
+
+.twitch
+
+{
+
+    -webkit-text-stroke-width: 0.1vw;
+    -webkit-text-stroke-color: black;
+}
+
+.Philip
+{
+
+    -webkit-text-stroke-width: 0.1vw;
+    -webkit-text-stroke-color: black;
+
+}
