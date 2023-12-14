@@ -1,16 +1,21 @@
 
 body {
     background-image: url('');
-    color: blue;
+    color: cyan;
     background-color: black;
-
-    
+background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20201009/pngtree-science-or-technology-background-with-dynamic-particles-trendy-colorful-design-template-image_406781.jpg);
 
 
 
 }
 
 
+
+img {
+
+    height: 20px;
+    width: 20px;
+}
 
 
 
@@ -18,36 +23,28 @@ body {
 p{
 
 
-background-color: rgb(42, 165, 61);
-padding: 50px;
-margin-left: 10%;
-margin-right: 10%;
-border-radius: 70%;
-
-
-
-
 }
 
-h1 {
- font-family: fantasy;
 
+.länkar
+
+{
+color: aliceblue;
 
 
 
 }
 
 
-h3 {
+.länkar
+{
+ padding: 5px;
+ border-style: solid;
+    text-decoration: none;
+}
+a:visited{
 
-
-background-color: chartreuse;
-font-style: inherit;
-text-decoration: underline;
-width: fit-content;
-border-radius: 30px;
-padding: 1%;
-
+color: aliceblue;
 
 }
 
@@ -59,7 +56,6 @@ background-color: chartreuse;
 
 
 }
-
 
 
 
