@@ -1,0 +1,74 @@
+body {
+    background-image: url(https://web.archive.org/web/19980514071337im_/http://valvesoftware.com/images/ceramic.gif);
+  
+}
+
+.logga
+{
+padding-left: 15.6vw;
+padding-top: 0.5vw;
+
+}
+
+
+
+.projects
+
+{
+font-size: large;
+
+}
+
+
+b
+{
+    font-family: verdana, "trebuchet ms", arial, helvetica;
+
+}
+
+.textdiv
+
+{
+    padding-left: 15.6vw;
+    margin-top: 2vw;
+}
+
+p
+{
+  font-size: smaller;
+    color: rgb(240, 191, 76);
+    font-family: verdana, "trebuchet ms", arial, helvetica;
+    
+    
+}
+
+.center-content {
+    margin-right: 19%;
+}
+
+.excerpt
+{
+
+    font-size: small;
+
+}
+
+a:visited {
+
+color: red;
+
+}
+
+.orangebild
+
+{
+position: absolute ;
+left: 2vw;
+top: 41vh;
+}
+
+.rights {
+font-size: 10px;
+    padding-top: 13.5vw;
+
+}
