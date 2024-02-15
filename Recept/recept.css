@@ -1,0 +1,97 @@
+body {
+
+    background-color: cornsilk;
+    display: grid;
+    grid-template-columns: 33% 27% 40%;
+    gap: 15px;
+
+}
+
+.bild {
+    height: 28vw;
+    width: 33vw;
+    display: inline-block;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    padding: 7px;
+    background-color: blanchedalmond;
+    border-style: inset;
+    border-style: outset;
+}
+
+
+
+.inforemsa p{
+    display: inline-block;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    padding: 7px;
+    background-color: blanchedalmond;
+    border-style: inset;
+border-style: outset;
+}
+
+.beskrivning{
+
+max-width: 25vw;
+display: inline-block;
+border-style: solid;
+border-width: 5px;
+border-color: black;
+padding: 7px;
+background-color: blanchedalmond;
+border-style: inset;
+border-style: outset;
+}
+
+.mittendiv{
+
+    display: inline-block;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    padding: 7px;
+    background-color: blanchedalmond;
+    border-style: inset;
+    border-style: outset;
+max-height: 66%
+}
+
+.textclass{
+
+font-style: italic; 
+font-family: monospace;
+}
+
+.görsåhärdiv
+
+{
+
+    display: inline-block;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    padding: 7px;
+    background-color: blanchedalmond;
+    border-style: inset;
+    border-style: outset;
+
+    margin-top: 3vw;
+}
+
+
+.bild2{
+
+height: 15vw;
+width: 10vw;
+}
+
+
+.servering{
+
+    display: grid;
+    grid-template-columns: auto auto;
+
+}

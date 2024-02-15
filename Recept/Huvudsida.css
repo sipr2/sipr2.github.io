@@ -1,0 +1,66 @@
+
+body{
+
+    background-color: cornsilk;
+    display: grid;
+    grid-template-columns: 32% 32% 32%;
+    gap: 15px;
+}
+
+.rubrik{
+
+
+     
+    display: inline-block;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    padding: 7px;
+    background-color: blanchedalmond;
+    border-style: inset;
+    border-style: outset;
+
+    margin-top: 3vw;
+
+}
+
+.bildruta1 {
+
+  
+    display: inline-block;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    padding: 7px;
+    background-color: blanchedalmond;
+    border-style: inset;
+border-style: outset;
+
+margin-top: 50px;
+}
+
+.bild1 {
+
+width: 250px;
+height: 200px;
+}
+
+.underrubrik
+{
+
+    display: inline-block;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    padding: 7px;
+    background-color: blanchedalmond;
+    border-style: inset;
+    border-style: outset;
+
+    margin-top: 3vw;
+}
+
+.andradiv{
+
+    margin-top: 120px
+}
