@@ -1,0 +1,21 @@
+body {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+    background-image: url(https://wallpapers.com/images/hd/cool-dark-square-metals-6ckndswkxde679st.jpg)
+}
+
+.faf {
+
+height: 400px;
+
+}
+
+.starwars
+{
+
+   height: 400px;
+   
+}
