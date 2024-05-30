@@ -1,0 +1,110 @@
+
+body
+{
+    background-color: rgba(19, 19, 19);
+    background-image: url(https://static1.squarespace.com/static/57f2b82b29687fb32444a615/t/5c51fb4dc2241bd9edc6fedb/1548876629145/inflames+group_3.jpg?format=1500w);
+    background-position: auto center;
+    background-repeat: repeat-x;
+    
+    
+        font-family: 'Metal Mania';font-size: 22px;
+    
+}
+
+.logga{
+
+   text-align: center;
+   margin-top: 10000px;
+}
+
+.logga img {
+    position:fixed;
+    top: 40px;
+    width: 5%;
+    left: 700px;
+}
+
+.navbar {
+    
+   
+    font-family: fantasy;
+
+    position: fixed;
+    top: 0;
+}
+
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+
+.navbar a:hover,
+.dropdown:hover .dropbtn {
+    background-color: red;
+}
+
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+
+.dropdown-content a {
+    
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+
+.dropdown-content a:hover {
+    background-color: #fffafa;
+}
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.text{
+color: aliceblue;
+
+}
+
+.namn {
+
+    position: fixed;
+    top: 0;
+    right: 0;
+}

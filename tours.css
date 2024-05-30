@@ -1,0 +1,42 @@
+
+body {
+    font-family: 'Metal Mania';
+    font-size: 22px;
+    background-image: url(https://images7.alphacoders.com/123/thumb-1920-1232552.jpg);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    color: aliceblue;
+text-shadow: 4px 4px black ;
+    display: grid; 
+    grid-template-columns: 50% auto;
+
+    margin: 0px;
+}
+
+.rubrik {
+
+    color: aliceblue;
+}
+
+.tourstext {
+  
+}
+
+.floating-title {
+    position: absolute;
+    left: 46vw;
+    right: 10;
+    color: coral;
+}
+
+
+
+.logga {
+
+position: fixed;
+right: 0;
+
+
+}
